@@ -19,6 +19,10 @@ L'objectif principal était de trouver des opportunités de recrutement en:
 - Établissant des contacts avec des responsables techniques
 - Explorant les dynamiques de recrutement sur StackOverflow
 
+<img width="902" alt="Screenshot 2024-12-02 at 16 05 17" src="https://github.com/user-attachments/assets/06cadf02-33b8-465f-a117-fedc79e22218">
+
+
+
 ### 2.2 Méthodologie
 1. Préparation d'un profil professionnel
 2. Analyse de l'écosystème StackOverflow
